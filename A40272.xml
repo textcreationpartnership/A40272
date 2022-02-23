@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony concerning our dear friend and brother George Watt</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40272</idno>
+            <idno type="STC">Wing F1926A</idno>
+            <idno type="STC">ESTC R220248</idno>
+            <idno type="EEBO-CITATION">99831670</idno>
+            <idno type="PROQUEST">99831670</idno>
+            <idno type="VID">36135</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36135)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2126:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony concerning our dear friend and brother George Watt</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated at end: G.F. [i.e. George Fox] London, the 6th of the 9th moneth, 1688.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Watt, George, --  Lover of the truth --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="testimony">
+            <pb n="1" facs="tcp:36135:1"/>
+            <head>A TESTIMONY Concerning Our dear Friend and Brother <hi>George Watt.</hi>
+            </head>
+            <p>WHo was a tender Man toward the Lord and his Truth, and upright in his Life and Converſation; and had a care of Gods Glory, and ſhewed forth an Ex<g ref="char:EOLhyphen"/>ample and Teſtimony in plainneſs, againſt the Pride and Vanities of this World; and all manner of Laſciviouſneſs and Looſneſs: A Man of Inte<g ref="char:EOLhyphen"/>grity, Fervency and Sincerity, for the Lord's Ho<g ref="char:EOLhyphen"/>nour and the Truth, and would have all that profeſs Truth, to walk in it; where any did not, it was to his Grief: He had a ſincere Teſtimony for the Lord, both in Life and Power theſe ſeveral years, both in Meetings here in <hi>England,</hi> and in <hi>Holland,</hi> and in <hi>Friezland,</hi> who Travelled with me; and I had a ſincere Love for him, for his true and honeſt upright-heartedneſs to the Lord, who ſtrove to walk inoffenſively, both to the Church of Chriſt and to the World, in his tender Life and Converſation; and the Lord had great<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:36135:2"/> bleſſed him in outward Riches, and he ſo lived above it, that he did a great deal of good with it, ſetting many poor Widows, Fatherleſs and Ser<g ref="char:EOLhyphen"/>vants to Work, that they got a good Livelihood under him. And <hi>G. Watt</hi> ſaid to me, that he paid a Thouſand Pounds a year to poor Wi<g ref="char:EOLhyphen"/>dows, Fatherleſs and Servants Wages, which was a great help to poor people, ſo that he has been the helping and making of many; and he kept very good order in his Family, and amongſt his Ser<g ref="char:EOLhyphen"/>vants and Work-People. And beſides his Chriſti<g ref="char:EOLhyphen"/>an Charity, he was always ready to help other poor Widows, Fatherleſs and Families of the Church of Chriſt, that profeſs the ſame Truth of Chriſt with him; and not only ſo but as the A<g ref="char:EOLhyphen"/>poſtle ſaith, <hi>Do good unto all, but eſpecially thoſe that are of the Houſhold of Faith,</hi> for ſuch poor Fa<g ref="char:EOLhyphen"/>milies or Widows as were not of his Religion, and Faith, he hath ſought out, help'd and relie<g ref="char:EOLhyphen"/>ved them in the cold Winter ſeaſon, with Coals and other Neceſſities.</p>
+            <p>And this he did not only to the poor Natives a<g ref="char:EOLhyphen"/>bout <hi>London,</hi> but alſo handed ſeveral Sums of Mo<g ref="char:EOLhyphen"/>ney to the poor <hi>French Proteſtants,</hi> that left their native Country for their Conſcience-ſake, beſides the relief he gave ſeveral of the poor <hi>French</hi> week<g ref="char:EOLhyphen"/>ly at his Houſe. Much I could write of ſuch things of the fruits of his Chriſtian Generous Spirit, whoſe Bowels were not ſtraitned from the good works of Faith, and practice of pure Religion. And I do not know that any one can ſpot his clean Life; he was a Man compaſſed about with many Infirmities, but exerciſed in the Word of Patience,
+<pb n="3" facs="tcp:36135:2"/> in which Patience he run his Race, to obtain the Life and Crown Immortal.</p>
+            <p>And alſo he was many times very much exer<g ref="char:EOLhyphen"/>ciſed in the Lords Power and Spirit, by which he was ſometimes moved to go to <hi>Steeple-houſes,</hi> and other places, to declare Gods Truth to the People, which Exerciſe few knew, but who had gone through the ſame; and ſeverall times he had been taken, and carried before Juſtices, and ſome<g ref="char:EOLhyphen"/>times caſt into Priſon; but the Lord by his eternal Arm and Power carried him over all, and over all gave him Dominion, for his Name and Truths ſake, and in it preſerved him to the end of his dayes, a harmleſs Innocent man, a Peace-maker, a true Be<g ref="char:EOLhyphen"/>liever in the Light of Chriſt, and a Child of the ſame; a living Member of the Church of Chriſt, who is the holy and heavenly Head of the ſame: And as Chriſt ſaith, <hi>He that believeth in me, though he were dead, yet ſhall he live; and he that liveth, and believeth in me ſhall never die;</hi> and in this Belief, and in this Life is our dear Brother <hi>George Watt;</hi> I do ſee him and feel him; And ſo, Bleſſed are all they that die in the Lord, they Reſt from their Labours, as he hath done, and their Works follow them, as his do him.</p>
+            <p>And this was upon me to write concerning our dear Brother <hi>George Watt.</hi> Though outwardly Weak, yet Strong in the Lord;</p>
+            <closer>
+               <signed>G. F.</signed>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>the 6th of the 9th Moneth, 1688.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
